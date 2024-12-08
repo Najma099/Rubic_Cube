@@ -1,0 +1,3 @@
+/Users/najmakhatun/CLionProjects/Rubic_Cube/cmake-build-debug/CMakeFiles/Rubic_Cube.dir
+/Users/najmakhatun/CLionProjects/Rubic_Cube/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/najmakhatun/CLionProjects/Rubic_Cube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
